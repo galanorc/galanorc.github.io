@@ -1,0 +1,17 @@
+{
+"companyName": "First Scatch Inc.",
+"productName": "大富豪",
+"productVersion": "0.1",
+"dataUrl": "md-app-test-v3-kb-test.data.unityweb",
+"wasmCodeUrl": "md-app-test-v3-kb-test.wasm.code.unityweb",
+"wasmFrameworkUrl": "md-app-test-v3-kb-test.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "md-app-test-v3-kb-test.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": true,
+"multithreading": false,
+"unityVersion": "2019.4.36f1"
+}
